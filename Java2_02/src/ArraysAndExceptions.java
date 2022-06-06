@@ -1,4 +1,4 @@
-public class Main {
+public class ArraysAndExceptions {
 
     static String[][] arraySizeException = {{"1", "1", "1"}, {"2", "2","2"}, {"3", "3", "3"}, {"4", "4", "4"}};
     static String[][] arrayDataException = {{"1", "1", "1", "1"}, {"2", "2", "2", "2"}, {"3", "3", "3", "3"}, {"U", "S", "S", "R"}};
